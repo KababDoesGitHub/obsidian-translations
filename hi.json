@@ -184,7 +184,7 @@
 			"label-installed-themes": "Installed themes",
 			"label-screenshot-unavailable": "Screenshot unavailable",
 			"label-default-theme": "Default",
-			"tooltip-click-to-enlarge": "Click to enlarge",
+			"tooltip-click-to-enlarge": "बड़ा करने के लिए क्लिक करें",
 			"button-update": "Update",
 			"label-currently-selected": "Selected",
 			"option-frame-style": "Window frame style",
@@ -283,8 +283,8 @@
 			"label-add-own-language": "See how to add your language to Obsidian."
 		},
 		"account": {
-			"name": "खाता",
-			"option-your-account": "Your account",
+			"name": "नाम",
+			"option-your-account": "आपका खाता",
 			"option-your-account-desc": "You're currently signed in {{name}} ({{email}}).",
 			"option-your-account-desc-no-login": "You're not logged in right now. An account is only needed for Obsidian Sync, Obsidian Publish, and Catalyst insider builds.",
 			"button-manage-settings": "Manage settings",
